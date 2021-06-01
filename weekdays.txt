@@ -3,3 +3,5 @@ Manday
 Tuesday
 Wensday
 Tharsday
+Friday
+Saturday
